@@ -20,5 +20,5 @@ markdown
         - enlazaste 3?  
 
 soy un link hacia la documentacion de [git hub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
-Escucha esta cancion de [Current Joy]
+Escucha esta cancion de [Current Joy][song]
 [song]: https://www.youtube.com/watch?v=n1h1AOeVQ38
