@@ -38,32 +38,8 @@ ola soy un parrafo 🥑
 </details>
 
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-``````stl
+
+```stl
 solid cube_corner
   facet normal 0.0 -1.0 0.0
     outer loop
@@ -95,5 +71,3 @@ solid cube_corner
   endfacet
 endsolid
 ```
-
-
