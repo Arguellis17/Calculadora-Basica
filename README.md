@@ -25,11 +25,11 @@ Escucha esta cancion de  [Current Joy](https://www.youtube.com/watch?v=n1h1AOeVQ
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
-<details><summary>CLICK ME</summary>
+<details><summary>Abreme</summary>
 <p>
 
 #### We can hide anything, even code!
-
+ola soy un parrafo 🥑
 ```java
    System.out.println("Hello World");
 ```
