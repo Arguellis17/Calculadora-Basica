@@ -30,8 +30,8 @@ Escucha esta cancion de  [Current Joy](https://www.youtube.com/watch?v=n1h1AOeVQ
 
 #### We can hide anything, even code!
 
-```ruby
-   puts "Hello World"
+```java
+   System.out.println("Hello World");
 ```
 
 </p>
