@@ -2,13 +2,13 @@
 package dominio;
 
 
-public class operacion {
+public class Operacion {
     // Atributos
     private int a;
     private int b;
     
     // Constructor
-    public operacion(int a, int b) {
+    public Operacion(int a, int b) {
         this.a = a;
         this.b = b;
     }
